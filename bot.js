@@ -58,7 +58,7 @@ if (message.content === 'اشتغلوا يلا يا كلاب') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**بينوو هو الفنان وبنوو شاط **[ " ${x} " ]`)
+        message.channel.send(`**Binoo The KING **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === 'اشتغلوا يلا يا كلاب') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** بينوو هو الفنان وبنوو شاطر **[ " ${x} " ]`)
+        message.channel.send(`** Binoo The KING **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
